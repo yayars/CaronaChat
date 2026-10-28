@@ -1,0 +1,12 @@
+{
+  "expo": {
+    "name": "CaronaChat",
+    "slug": "caronachat",
+    "scheme": "caronachat",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "light",
+    "plugins": ["expo-router"],
+    "experiments": { "typedRoutes": true }
+  }
+}
